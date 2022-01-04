@@ -1,0 +1,12 @@
+[
+    {       
+        "nombre": "Juan",
+        "apellido": "Zambrano",
+        "contacto": "0990623064",
+        "direccion": "Calle: 300; Avenida: 125",       
+        "email": "juanza@outlook.es",
+        "curso": "5to nivel",
+        "paralelo": "A",
+        "cedula": "1318135472"
+    }
+]
